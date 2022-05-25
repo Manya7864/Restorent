@@ -1,0 +1,66 @@
+[
+  {
+    "id":1,
+    "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant1.jpeg",
+    "name": "Chaitanya Parathas",
+    "category": [
+      "North India",
+      "Punjabi",
+      "Chinese",
+      "Thalis Combo",
+      "Beverage"
+    ],
+    "rating": "4",
+    "deliveryTimings": "33 MINS",
+    "costfortwo": 300,
+    "offers": ["20% off", "Use TRYNEW"]
+  },
+  {
+    "id":2,
+    "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant2.jpeg",
+    "name": "Chaitanya Parathas",
+    "category": [
+      "North India",
+      "Punjabi",
+      "Chinese",
+      "Thalis Combo",
+      "Beverage"
+    ],
+    "rating": "5",
+    "deliveryTimings": "33 MINS",
+    "costfortwo": 400,
+    "offers": ["20% off", "Use TRYNEW"]
+  },
+  {
+    "id":3,
+    "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant3.jpeg",
+    "name": "Chaitanya Parathas",
+    "category": [
+      "North India",
+      "Punjabi",
+      "Chinese",
+      "Thalis Combo",
+      "Beverage"
+    ],
+    "rating": "4",
+    "deliveryTimings": "33 MINS",
+    "costfortwo": 500,
+    "offers": ["20% off", "Use TRYNEW"]
+  },
+  {
+    "id":4,
+    "image": "https://raw.githubusercontent.com/riteshf/cherry/main/assets/restaurant5.jpeg",
+    "name": "Chaitanya Parathas",
+    "category": [
+      "North India",
+      "Punjabi",
+      "Chinese",
+      "Thalis Combo",
+      "Beverage"
+    ],
+    "rating": "3.3",
+    "deliveryTimings": "33 MINS",
+    "costfortwo": 600,
+    "offers": ["20% off", "Use TRYNEW"]
+  }
+]
